@@ -1,0 +1,22 @@
+{
+  "name": "joblisting",
+  "version": "1.0.0",
+  "description": "Job listing prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danyakl/joblisting.git"
+  },
+  "author": "Daniel AKL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danyakl/joblisting/issues"
+  },
+  "homepage": "https://github.com/danyakl/joblisting#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
